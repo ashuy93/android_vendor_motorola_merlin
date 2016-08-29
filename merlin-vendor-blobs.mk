@@ -131,4 +131,5 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/merlin/proprietary/vendor/lib/libmmqjpeg_codec.so:system/vendor/lib/libmmqjpeg_codec.so \
     vendor/motorola/merlin/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
     vendor/motorola/merlin/proprietary/vendor/lib/libqomx_jpegdec.so:system/vendor/lib/libqomx_jpegdec.so \
-    vendor/motorola/merlin/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so
+    vendor/motorola/merlin/proprietary/vendor/lib/libqomx_jpegenc.so:system/vendor/lib/libqomx_jpegenc.so \
+    vendor/motorola/merlin/proprietary/vendor/lib/libbt-vendor.so:system/vendor/lib/libbt-vendor.so \
